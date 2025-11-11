@@ -1,0 +1,134 @@
+/* Full page container */
+.page-container {
+  position: relative;
+  width: 100vw;
+  min-height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Background image */
+.bg-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.6) saturate(1.1);
+  z-index: 0;
+  transition: transform 20s ease-in-out;
+}
+
+/* Optional slow zoom effect */
+.page-container:hover .bg-img {
+  transform: scale(1.05);
+}
+
+/* Content wrapper */
+.content-wrapper {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  flex: 1; /* take remaining vertical space */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 100px; /* navbar height */
+  padding-bottom: 100px; /* footer height */
+  background: rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  overflow-y: auto; /* scroll if content exceeds viewport */
+}
+
+/* Navbar */
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0 2rem;
+  z-index: 1000;
+  background: rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(6px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+
+/* Navbar buttons */
+.navbar .btn {
+  transition: all 0.3s ease;
+  border-radius: 8px;
+  font-weight: 600;
+  padding: 0.5rem 1.2rem;
+  margin-left: 0.5rem;
+}
+.navbar .btn:hover {
+  transform: scale(1.08);
+  box-shadow: 0 6px 15px rgba(255, 193, 7, 0.6);
+}
+
+/* Welcome title */
+.content-wrapper h1 {
+  color: #ffc107; /* Bootstrap warning color */
+  text-align: center;
+  margin: 2rem 0;
+  font-size: 3rem;
+  font-weight: 700;
+  text-shadow: 3px 3px 12px rgba(0,0,0,0.7);
+}
+
+/* Centered form content */
+.centered-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  flex: 1; /* fills remaining vertical space */
+  padding: 1rem;
+}
+
+/* Form card styling */
+.centered-content > * {
+  width: 100%;
+  max-width: 400px;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 2.5rem;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.centered-content > *:hover {
+  transform: translateY(-7px);
+  box-shadow: 0 14px 40px rgba(0,0,0,0.45);
+}
+
+/* Footer fix - ensures spacing */
+.page-container footer {
+  z-index: 1;
+  position: relative;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .content-wrapper h1 {
+    font-size: 2.2rem;
+    margin: 1.5rem 0;
+  }
+
+  .navbar {
+    padding: 0 1rem;
+  }
+
+  .centered-content > * {
+    padding: 2rem 1.5rem;
+  }
+}

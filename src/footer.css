@@ -1,0 +1,44 @@
+footer {
+  padding-top: 20px !important;  /* Reduce top padding */
+  padding-bottom: 15px !important; /* Reduce bottom padding */
+  font-size: 0.85rem; /* Smaller text */
+}
+
+footer img {
+  width: 80px !important; /* Smaller logo */
+  margin-bottom: 5px;
+}
+
+footer h5 {
+  font-size: 1rem; /* Smaller headings */
+  margin-bottom: 10px;
+}
+
+footer p, footer a {
+  font-size: 0.8rem; /* Reduce paragraph and link text */
+  margin-bottom: 5px;
+}
+
+footer ul li a {
+  font-size: 0.8rem;
+}
+
+footer .form-control {
+  height: 10px; /* smaller input height */
+  font-size: 1rem;
+  padding: 3px 8px;
+}
+
+footer .btn {
+  padding: 4px 10px; /* smaller button */
+  font-size: 0.8rem;
+}
+
+footer .border-top {
+  padding-top: 10px !important;
+  margin-top: 10px !important;
+}
+
+footer .d-flex.gap-2 svg {
+  font-size: 0.9rem; /* smaller social icons */
+}
