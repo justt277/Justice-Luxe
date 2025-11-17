@@ -21,6 +21,10 @@ function ProductsPage() {
   const [page, setPage] = useState("home");
   const [cart, setCart] = useState([]);
 
+  const handleBuy = (product) => {
+    alert('you Bought: ${product.title} for ${product.price}')
+  }
+
   function AddToCart(product) {
     setCart((prevCart) => [...prevCart, product]);
   }
@@ -32,6 +36,7 @@ function ProductsPage() {
   const shoes = Products.filter((product) => product.category === "Shoes");
   const clothes = Products.filter((product) => product.category === "Clothes");
   const boots = Products.filter((product) => product.category === "Boots");
+  const Caps = Products.filter((product) => product.category === "Caps");
 
 
   let backgroundImage = null;
@@ -80,6 +85,7 @@ function ProductsPage() {
                 "Shoes",
                 "Clothes",
                 "Boots",
+                "Caps",
                 "About",
                 "Contact",
                 "Cart",
@@ -108,7 +114,7 @@ function ProductsPage() {
       <div className="flex-grow-1 container py-5">
         {page === "home" && (
           <div className="ho-section text-center text-light" >
-            <Slideshow />
+            
             <Home setPage={setPage} />
           </div>
         )}
@@ -121,7 +127,7 @@ function ProductsPage() {
             <div className="row g-4 justify-content-center">
               {shoes.map((p) => (
                 <div key={p.id} className="col-12 col-sm-6 col-md-4 col-lg-3">
-                  <ProductCard {...p} product={p} AddToCart={AddToCart} cart={cart}/>
+                  <ProductCard {...p} product={p} AddToCart={AddToCart} cart={cart} onBuy={handleBuy}/>
                 </div>
               ))}
             </div>
@@ -136,7 +142,7 @@ function ProductsPage() {
             <div className="row g-4 justify-content-center">
               {clothes.map((p) => (
                 <div key={p.id} className="col-12 col-sm-6 col-md-4 col-lg-3">
-                  <ProductCard {...p} product={p} AddToCart={AddToCart} cart={cart}/>
+                  <ProductCard {...p} product={p} AddToCart={AddToCart} cart={cart} onBuy={handleBuy}/>
                 </div>
               ))}
             </div>
@@ -151,7 +157,21 @@ function ProductsPage() {
             <div className="row g-4 justify-content-center">
               {boots.map((p) => (
                 <div key={p.id} className="col-12 col-sm-6 col-md-4 col-lg-3">
-                  <ProductCard {...p} product={p} AddToCart={AddToCart} cart={cart} />
+                  <ProductCard {...p} product={p} AddToCart={AddToCart} cart={cart} onBuy={handleBuy}/>
+                </div>
+              ))}
+            </div>
+          </>
+        )}
+          {page === "Caps" && (
+          <>
+            <h2 className="text-center mb-4 text-dark fw-bold">
+              🧢Shoes Collection
+            </h2>
+            <div className="row g-4 justify-content-center">
+              {Caps.map((p) => (
+                <div key={p.id} className="col-12 col-sm-6 col-md-4 col-lg-3">
+                  <ProductCard {...p} product={p} AddToCart={AddToCart} cart={cart}/>
                 </div>
               ))}
             </div>

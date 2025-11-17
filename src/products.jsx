@@ -48,6 +48,128 @@ import jersey2 from './assets/jersey2.jpg'
 import jersey3 from './assets/jersey3.jpg'
 import jordan6 from './assets/jordan6.jpg'
 import JordanAirRetro from './assets/JordanAirRetro.jpg'
+import KAWSxTHENORTHFACE from './assets/KAWSxTHENORTHFACE.jpg'
+import lacoste from './assets/lacoste.jpg'
+import LeatherBoots from './assets/LeatherBoots.jpg'
+import LUXURY from './assets/LUXURY.jpg'
+import Manfinity from './assets/Manfinity.jpg'
+import MightyDucks from './assets/MightyDucks.jpg'
+import Minnesota from './assets/Minnesota.jpg'
+import Motojacket from './assets/Motojacket.jpg'
+import NHL from './assets/NHL.jpg'
+import OmbreMulti from './assets/OmbreMulti.jpg'
+import pinks from './assets/pinks.jpg'
+import Plataforma from './assets/Plataforma.jpg'
+import SHEIN from './assets/SHEIN.jpg'
+import SheinCR from './assets/SheinCR.jpg'
+import sold_vendu from './assets/sold_vendu.jpg'
+import SportDept from './assets/SportDept.jpg'
+import Steampunk from './assets/Steampunk.jpg'
+import StripePanel from './assets/StripePanel.jpg'
+import Svarte from './assets/Svarte.jpg'
+import Taille from './assets/Taille.jpg'
+import YoungLauryn from './assets/YoungLauryn.jpg'
+import Xajzpa from './assets/Xajzpa.jpg'
+import lvboots from './assets/lvboots.jpg'
+import yeezy1 from './assets/yeezy1.jpg'
+import baggy1 from './assets/baggy1.jpg'
+import lvjacket from './assets/lvjacket.jpg'
+import lvsandals1 from './assets/lvsandals1.jpg'
+import lvsandals from './assets/lvsandals.jpg'
+import LVAirJordan13 from './assets/LVAirJordan13.jpg'
+import Lux from './assets/Lux.jpg'
+import LouisVuitton from './assets/LouisVuitton.jpg'
+import AirMax95 from './assets/AirMax95.jpg'
+import THETIMBS from './assets/THETIMBS.jpg'
+import THETIMBS1 from './assets/THETIMBS1.jpg'
+import PinkVelvet from './assets/PinkVelvet.jpg'
+import BaggyPants1 from './assets/BaggyPants1.jpg'
+import TIMBERLANDBOOTSXGUÈ from './assets/TIMBERLANDBOOTSXGUÈ.jpg'
+import Harley from './assets/Harley.jpg'
+import Harley1 from './assets/Harley1.jpg'
+import Harley2 from './assets/Harley2.jpg'
+import XNOCTA from './assets/XNOCTA.jpg'
+import Garypayton from './assets/Garypayton.jpg'
+import NoctaXNike from './assets/NoctaXNike.jpg'
+import ShoesM1000 from './assets/ShoesM1000.jpg'
+import NewBalance1000 from './assets/NewBalance1000.jpg'
+import NBFaux9060 from './assets/NBFaux9060.jpg'
+import NB9060 from './assets/NB9060.jpg'
+import NB530 from './assets/NB530.jpg'
+import DrMartensx from './assets/DrMartensx.jpg'
+import VINTAGE from './assets/VINTAGE.jpg'
+import ManlyWinter from './assets/ManlyWinter.jpg'
+import KraasaMen from './assets/KraasaMen.jpg'
+import MENSHINYCHRISTMAS from './assets/MENSHINYCHRISTMAS.jpg'
+import PradaFormal1 from './assets/PradaFormal1.jpg'
+import PradaFormal from './assets/PradaFormal.jpg'
+import prada1 from './assets/prada1.jpg'
+import PradaShoes from './assets/PradaShoes.jpg'
+import MenDesigner from './assets/MenDesigner.jpg'
+import PradaChelseaBlack from './assets/PradaChelseaBlack.jpg'
+import nbaHat from './assets/nbaHat.jpg'
+import MEACULPA   from './assets/MEACULPA.jpg'
+import DiamondDenim from './assets/DiamondDenim.jpg'
+import galleryshort from './assets/galleryshort.jpg'
+import SkeletonSlides from './assets/SkeletonSlides.jpg'
+import naked from './assets/naked.jpg'
+import CapNewEra from './assets/CapNewEra.jpg'
+import FAMPin from './assets/FAMPin.jpg'
+import cap from './assets/cap.jpg'
+import cap2 from './assets/cap2.jpg'
+import cap1 from './assets/cap1.jpg'
+import cap3 from './assets/cap3.jpg'
+import cap4 from './assets/cap4.jpg'
+import cap5 from './assets/cap5.jpg'
+import cap6 from './assets/cap6.jpg'
+import cap7 from './assets/cap7.jpg'
+import cap8 from './assets/cap8.jpg'
+import pearlfitted from './assets/pearlfitted.jpg'
+import Vegasgold2 from './assets/Vegasgold2.jpg'
+import suppremeCap from './assets/suppremeCap.jpg'
+import ValentinoHat from './assets/ValentinoHat.jpg'
+import JEANSHORT from './assets/JEANSHORT.jpg'
+import jeanshort1 from './assets/jeanshort1.jpg'
+import DepopShorts from './assets/DepopShorts.jpg'
+import SkeletonShorts from './assets/SkeletonShorts.jpg'
+import louisvShoes from './assets/louisvShoes.jpg'
+import shortteen from './assets/shortteen.jpg'
+import DepopWomenHat from './assets/DepopWomenHat.jpg'
+import FullyDiamond from './assets/FullyDiamond.jpg'
+import AirForce  from './assets/AirForce.jpg'
+import AirForceN  from './assets/AirForceN.jpg'
+import crocs from './assets/crocs.jpg'
+import Ny from './assets/Ny.jpg'
+import DodgersFitted from './assets/DodgersFitted.jpg'
+import capcola from './assets/capcola.jpg'
+import short1 from './assets/short1.jpg'
+import greenp from './assets/greenp.jpg'
+import RedBoots from './assets/RedBoots.jpg'
+import balmain from './assets/balmain.jpg'
+import off  from './assets/off.jpg'
+import LouisVuittonBOOTS from './assets/LouisVuittonBOOTS.jpg'
+import capr from './assets/capr.jpg'
+import blackshoes from './assets/blackshoes.jpg'
+import knuice from './assets/knuice.jpg'
+import jacket from './assets/jacket.jpg'
+import jacket2 from './assets/jacket2.jpg'
+import jacket3 from './assets/jacket3.jpg'
+import spineshoes from './assets/spineshoes.jpg'
+import hatjeans from './assets/hatjeans.jpg'
+import converseN from './assets/converseN.jpg'
+import LV from './assets/LV.jpg'
+import Hearts from './assets/Hearts.jpg'
+import hat2 from './assets/hat2.jpg'
+import KnittedHat from './assets/KnittedHat.jpg'
+import PocketJeans from './assets/PocketJeans.jpg'
+import shirt from './assets/shirt.jpg'
+import boots1 from './assets/boots1.jpg'
+import ogsrs1 from './assets/ogsrs1.jpg'
+import ogsrs2 from './assets/ogsrs2.jpg'
+
+
+
+
 
 
 
@@ -452,7 +574,591 @@ import JordanAirRetro from './assets/JordanAirRetro.jpg'
           description: 'The Jordan 6 Retro is a classic sneaker that combines iconic design with modern comfort, making it a favorite among sneaker enthusiasts.',
           price: '$200',
           category: 'Shoes'
-        }
+        },
+        {
+          id:51,
+          image: KAWSxTHENORTHFACE,
+          title: 'KAWS x THE NORTH FACE',
+          description: 'The KAWS x THE NORTH FACE collaboration features unique designs that blend street art with outdoor functionality.',
+          price: '$300',
+          category: 'Clothes'
+        },
+        {
+          id:52,
+          image: lacoste,
+          title: 'Lacoste Polo Shirt',
+          description: 'The Lacoste Polo Shirt is a classic piece known for its timeless style and comfort, perfect for both casual and semi-formal occasions.',
+          price: '$70',
+          category: 'Clothes'
+        },
+        {
+          id:53,
+          image: LeatherBoots,
+          title: 'Leather Boots',
+          description: 'These Leather Boots are crafted from high-quality materials, offering durability and a stylish look for various occasions.',
+          price: '$180',
+          category: 'Boots'
+        },
+        {
+          id:54,
+          image: LUXURY,
+          title: 'LUXURY Pants',
+          description: 'LUXURY Sneakers combine premium materials with sophisticated design, making them a standout choice for fashion-forward individuals.',
+          price: '$400',
+          category: 'Clothes'
+        },
+        {
+          id:55,
+          image: Manfinity,
+          title: 'Manfinity Jacket',
+          description: 'The Manfinity Jacket is a stylish and functional outerwear piece, perfect',
+          price: '$120',
+          category: 'Clothes'
+        },
+        {
+          id:56,
+          image: MightyDucks,
+          title: 'Mighty Ducks Jersey',
+          description: 'The Mighty Ducks Jersey is a nostalgic piece for fans of the iconic hockey team, featuring vibrant colors and authentic design.',
+          price: '$80',
+          category: 'Clothes'
+        },
+        {
+          id:57,
+          image: Minnesota,
+          title: 'Minnesota Timberwolves Hoodie',
+          description: 'The Minnesota Timberwolves Hoodie is a cozy and stylish garment, perfect for showing support for the NBA team while staying warm.',
+          price: '$60',
+          category: 'Clothes'
+        },
+        {
+          id:58,
+          image: Motojacket,
+          title: 'Moto Jacket',
+          description: 'The Moto Jacket is a sleek and edgy outerwear piece, designed for both style and functionality, ideal for motorcycle enthusiasts and fashion lovers alike.',
+          price: '$140',
+          category: 'Clothes'
+        },
+        {
+          id:59,
+          image: NHL,
+          title: 'NHL Team Jacket',
+          description: 'The NHL Team Jacket is a must-have for hockey fans, featuring team colors and logos to show your support in style.',
+          price: '$100',
+          category: 'Clothes'
+        },
+        {
+          id:60,
+          image: OmbreMulti,
+          title: 'Ombre Multi Hoodie',
+          description: 'The Ombre Multi Hoodie features a vibrant gradient design, combining comfort with eye-catching style for casual wear.',
+          price: '$55',
+          category: 'Clothes'
+        },
+        {
+          id:61,
+          image: pinks,
+          title: 'Pinks Jacket',
+          description: 'The Pinks Jacket is a trendy outerwear piece that combines bold colors with a comfortable fit, perfect for making a fashion statement.',
+          price: '$85',
+          category: 'Clothes'
+        },
+        {
+          id:62,
+          image: Plataforma,
+          title: 'Plataforma Shoes',
+          description: 'Plataforma Shoes are designed with elevated soles for added height and style, perfect for those looking to make a bold fashion statement.',
+          price: '$120',
+          category: 'Shoes'
+        },
+        {
+          id:63,
+          image: SHEIN,
+          title: 'SHEIN Jacket', 
+          description: 'The SHEIN Jacket is a fashionable and affordable outerwear option, perfect for staying stylish during cooler weather.',
+          price: '$45',
+          category: 'Clothes'
+        },
+        {
+          id:64,
+          image: SheinCR,
+          title: 'Shein CR Hoodie',
+          description: 'The Shein CR Hoodie offers a comfortable fit and trendy design, making it a great addition to any casual wardrobe.',
+          price: '$35',
+          category: 'Clothes'
+        },
+        {
+          id:65,
+          image: sold_vendu,
+          title: 'New Balance ',
+          description: 'The Sold Vendu Jacket is a stylish outerwear piece that combines modern design with practical features for everyday wear.',
+          price: '$95',
+          category: 'Shoes'
+        },
+        {
+          id:66,
+          image: SportDept,
+          title: 'Sport Dept ',
+          description: 'Sport Dept Sneakers are designed for both performance and style, making them a versatile choice for athletic activities and casual wear.',
+          price: '$110',
+          category: 'Clothes'
+        },
+        {
+          id:67,
+          image: Steampunk,
+          title: 'Steampunk Boots',
+          description: 'The Steampunk Jacket features a unique blend of vintage and futuristic design elements, perfect for those who want to stand out with their fashion choices.',
+          price: '$130',
+          category: 'Boots'
+        },
+        {
+          id:68,
+          image: StripePanel,
+          title: 'Stripe Panel Hoodie',
+          description: 'The Stripe Panel Hoodie combines bold stripe designs with a comfortable fit, making it a stylish choice for casual wear.',
+          price: '$50',
+          category: 'Clothes'
+        },
+        {
+          id:69,
+          image: Svarte,
+          title: 'Svarte Boots',
+          description: 'Svarte Boots are known for their sleek design and durable construction, making them a fashionable and practical choice for various occasions.',
+          price: '$160',
+          category: 'Boots'
+        },
+        {
+          id:70,
+          image: Taille,
+          title: 'Taille Pants',
+          description: 'Taille Pants offer a tailored fit and stylish design, perfect for both casual and formal occasions.',
+          price: '$70',
+          category: 'Clothes'
+        },
+        {
+          id:71,
+          image: YoungLauryn,
+          title: 'Young Lauryn Jacket',
+          description: 'The Young Lauryn Jacket is a trendy outerwear piece that combines contemporary style with comfort, ideal for fashion-forward individuals.',
+          price: '$90',
+          category: 'Clothes'
+        },
+        {
+          id:72,
+          image: Xajzpa,
+          title: 'Xajzpa Sneakers',
+          description: 'Xajzpa Sneakers are designed for both style and performance, making them a great choice for sneaker enthusiasts.',
+          price: '$130',
+          category: 'Boots'
+        },
+        {
+          id:73,
+          image: lvboots,
+          title: 'LV Boots',
+          description: 'LV Boots are a luxurious footwear option, crafted with premium materials and featuring the iconic Louis Vuitton design elements.',
+          price: '$1200',
+          category: 'Boots'
+        },
+        {
+          id:74,
+          image: yeezy1,
+          title: 'Yeezy 1',
+          description: 'The Yeezy 1 is a highly sought-after sneaker designed by Kanye West, known for its unique style and comfort.',
+          price: '$2200',
+          category: 'Shoes'
+        },
+        {
+          id:75,
+          image: baggy1,
+          title: 'Baggy Pants 1',
+          description: 'Baggy Pants 1 are a comfortable and stylish choice, offering a relaxed fit that is perfect for casual wear and street fashion.',
+          price: '$45',
+          category: 'Clothes'
+        },
+        {
+          id:76,
+          image: lvjacket,
+          title: 'LV Jacket',
+          description: 'The LV Jacket is a luxurious outerwear piece from Louis Vuitton, combining high-end fashion with exceptional craftsmanship.',
+          price: '$2500',
+          category: 'Clothes'
+        },
+        {
+          id:77,
+          image: lvsandals1,
+          title: 'LV Sandals 1',
+          description: 'LV Sandals 1 are a stylish and comfortable footwear option, perfect for warm weather and casual outings.',
+          price: '$600',
+          category: 'Shoes'
+        },
+        {
+          id:78,
+          image: lvsandals,
+          title: 'LV Sandals',
+          description: 'LV Sandals are a chic and fashionable choice, featuring the iconic Louis Vuitton design elements for a luxurious look.',
+          price: '$650',
+          category: 'Shoes'
+        },
+        {
+          id:79,
+          image: LVAirJordan13,
+          title: 'LV Air Jordan 13',
+          description: 'The LV Air Jordan 13 is a collaboration between Louis Vuitton and Jordan Brand, featuring premium materials and unique design elements.',
+          price: '$3000',
+          category: 'Shoes'
+        },
+        {
+          id:80,
+          image: Lux,
+          title: 'Lux Sneakers',
+          description: 'Lux Sneakers combine premium materials with sophisticated design, making them a standout choice for fashion-forward individuals.',
+          price: '$450',
+          category: 'Shoes'
+        },
+        {
+          id:81, 
+          image: LouisVuitton,
+          title: 'Louis Vuitton Shoes',
+          description: 'Louis Vuitton Shoes are a symbol of luxury and high fashion, known for their exquisite craftsmanship and stylish designs that make a statement.',
+          price: '$900',
+          category: 'Shoes'
+        },
+        {
+          id:82,
+          image: AirMax95,
+          title: 'Air Max 95',
+          description: 'The Air Max 95 is a classic sneaker known for its innovative design and superior cushioning, making it a favorite among sneaker enthusiasts.',
+          price: '$170',
+          category: 'Shoes'
+        },
+        {
+          id:83,
+          image: THETIMBS,
+          title: 'THE TIMBS',
+          description: 'THE TIMBS are iconic boots known for their durability, comfort, and rugged style, perfect for both urban and outdoor settings.',
+          price: '$160',
+          category: 'Boots'
+        },
+        {
+          id:84,
+          image: THETIMBS1,
+          title: 'THE TIMBS 1',
+          description: 'THE TIMBS 1 are a classic footwear choice, offering a blend of style and functionality for various occasions.',
+          price: '$170',
+          category: 'Boots'
+        },
+        {
+          id:85,
+          image: PinkVelvet,
+          title: 'Pink Velvet Boots',
+          description: 'The Pink Velvet Jacket is a luxurious outerwear piece that combines soft velvet fabric with a vibrant pink hue, perfect for making a fashion statement.',
+          price: '$140',
+          category: 'Boots'
+        },
+        {
+          id:86,
+          image: BaggyPants1,
+          title: 'Baggy Pants 1',
+          description: 'Baggy Pants 1 are a comfortable and stylish choice, offering a relaxed fit that is perfect for casual wear and street fashion.',
+          price: '$50',
+          category: 'Clothes'
+        },
+        {
+          id:87,
+          image: TIMBERLANDBOOTSXGUÈ,
+          title: 'TIMBERLAND BOOTS X GUÈ',
+          description: 'The TIMBERLAND BOOTS X GUÈ collaboration features unique designs that blend street art with outdoor functionality.',
+          price: '$280',
+          category: 'Boots'
+        },
+        {
+          id:88,
+          image: Harley,
+          title: 'Harley Jacket',
+          description: 'The Harley Jacket is a sleek and edgy outerwear piece, designed for both style and functionality, ideal for motorcycle enthusiasts and fashion lovers alike.',
+          price: '$150',
+          category: 'Boots'
+        },
+        {
+          id:89,
+          image: Harley1,
+          title: 'Harley Jacket 1',
+          description: 'The Harley Jacket 1 is a trendy outerwear piece that combines contemporary style with comfort, ideal for fashion-forward individuals.',
+          price: '$160',
+          category: 'Boots'
+        },
+        {
+          id:90,
+          image: Harley2,
+          title: 'Harley Jacket 2',
+          description: 'The Harley Jacket 2 offers a classic design with modern updates, perfect for motorcycle enthusiasts and fashion lovers alike.',
+          price: '$170',
+          category: 'Boots'
+        },
+        {
+          id:91,
+          image: XNOCTA,
+          title: 'X NOCTA Hoodie',
+          description: 'The X NOCTA Hoodie offers a comfortable fit and trendy design, making it a great addition to any casual wardrobe.',
+          price: '$380',
+          category: 'Shoes'
+        },
+        {
+          id:92,
+          image: Garypayton,
+          title: 'Gary Payton Sneakers',
+          description: 'Gary Payton Sneakers are designed for both style and performance, making them a great choice for sneaker enthusiasts.',
+          price: '$140',
+          category: 'Shoes'
+        },
+        {
+          id:93,
+          image: NoctaXNike,
+          title: 'Nocta X Nike Sneakers',
+          description: 'The Nocta X Nike collaboration features unique sneaker designs that blend streetwear aesthetics with Nike\'s performance technology.',
+          price: '$200',
+          category: 'Shoes'
+        },
+        {
+          id:94,
+          image: ShoesM1000,
+          title: 'Shoes M1000',
+          description: 'The Shoes M1000 are a stylish and comfortable footwear option, perfect for everyday wear and casual outings.',
+          price: '$130',
+          category: 'Shoes'
+
+        },
+        {
+          id:95,
+          image: NewBalance1000,
+          title: 'New Balance 1000',
+          description: 'The New Balance 1000 is a classic sneaker known for its superior comfort and timeless design, making it a favorite among sneaker enthusiasts.',
+          price: '$150',
+          category: 'Shoes'
+        },
+        {
+          id:96,
+          image: NBFaux9060,
+          title: 'NB Faux 9060',
+          description: 'The NB Faux 9060 offers a stylish and comfortable design, perfect for casual wear and everyday activities.',
+          price: '$120',
+          category: 'Shoes'
+        
+        },
+        {
+          id:97,
+          image: NB9060,
+          title: 'NB 9060',
+          description: 'The NB 9060 is a versatile sneaker that combines modern design with classic New Balance comfort.',
+          price: '$130',
+          category: 'Shoes'
+        },
+        {
+          id:98,
+          image: NB530,
+          title: 'NB 530',
+          description: 'The NB 530 is a retro-inspired sneaker that offers a blend of vintage style and modern comfort, making it a popular choice among sneaker enthusiasts.',
+          price: '$110',
+          category: 'Shoes'
+        },
+        {
+          id:99,
+          image: DrMartensx,
+          title: 'Dr. Martens X',
+          description: 'Dr. Martens X features a unique collaboration design that combines the iconic Dr. Martens style with contemporary fashion elements.',
+          price: '$180',
+          category: 'Boots'
+        },
+        {
+          id:100,
+          image: VINTAGE,
+          title: 'VINTAGE Boots',
+          description: 'The VINTAGE Jacket is a classic piece of outerwear that combines timeless style with modern comfort, perfect for adding a cool edge to any outfit.',
+          price: '$100',
+          category: 'Boots'
+        },
+        {
+          id:101,
+          image: ManlyWinter,
+          title: 'Manly Winter Boots',
+          description: 'The Manly Winter Jacket offers exceptional warmth and comfort, making it an ideal choice for cold weather while maintaining a stylish look.',
+          price: '$160',
+          category: 'Boots'
+        },
+        {
+          id:102,
+          image: KraasaMen,
+          title: 'KraasaMen Boots',
+          description: 'KraasaMen Shoes are known for their sleek design and durable construction, making them a fashionable and practical choice for various occasions.',
+          price: '$140',
+          category: 'Boots'
+        },
+        {
+          id:103,
+          image: PradaChelseaBlack,
+          title: 'Prada Chelsea Black',
+          description: 'The Prada Chelsea Black boots are a sophisticated and stylish footwear option, crafted with premium materials and featuring the iconic Prada design elements.',
+          price: '$1200',
+          category: 'Boots'
+        },
+        {
+          id:104,
+          image: nbaHat,
+          title: 'NBA Men Hat',
+          description: 'The Nba hat  which is styles ',
+          price: '$200',
+          category: 'Caps'
+        },
+        {
+          id:105,
+          image: KnittedHat,
+          title: 'Knitted Hat',
+          description: 'The Knitted Hat is a cozy and stylish accessory, perfect for keeping warm during colder months while adding a fashionable touch to any outfit.',
+          price: '$30',
+          category: 'Caps'
+        },
+        {
+          id:106,
+          image: PocketJeans,
+          title: 'Pocket Jeans',
+          description: 'Pocket Jeans are a trendy and functional clothing item, featuring multiple pockets for added convenience and style.',
+          price: '$65',
+          category: 'Clothes'
+        },
+        {
+          id:107,
+          image: shirt,
+          title: 'Casual Shirt',
+          description: 'The Casual Shirt is a versatile piece that can be dressed up or down, perfect for various occasions and made from comfortable fabrics.',
+          price: '$45',
+          category: 'Clothes'
+        },
+        {
+          id:108,
+          image: ogsrs1,
+          title: 'casual Shoes',
+          description: 'these are the casual shoes with high style',
+          price: '$150',
+          category: 'Shoes'
+        },
+                {
+          id:109,
+          image: ogsrs2,
+          title: 'casual Shoes',
+          description: 'these are the casual shoes with high style',
+          price: '$150',
+          category: 'Shoes'
+        },
+        {
+          id:110,
+          image: MEACULPA,
+          title: 'Cool Hat',
+          description: 'is a cozy and stylish accessory, perfect for keeping warm during colder months while adding a fashionable touch to any outfit.',
+          price: '$35',
+          category: 'Caps'
+        },
+        {
+          id:111,
+          image:DiamondDenim,
+          title: 'Cool short',
+          description: 'A Cool black is a cozy and stylish accessory, perfect for keeping warm during colder months while adding a fashionable touch to any outfit.',
+          price: '$40',
+          category: 'Clothes'
+        },
+        {
+          id:112,
+          image: galleryshort,
+          description: 'is a cozy and stylish accessory, perfect for keeping warm during colder months while adding a fashionable touch to any outfit.',
+          price: '$42.5',
+          category:'Clothes'
+        },
+        {
+          id:113,
+          image: SkeletonSlides,
+          description: 'cool slides which are cozy and stylish accessory, perfect for keeping warm during colder months while adding a fashionable touch to any outfit.',
+          price: '$50',
+          category:'Shoes'
+        },
+        {
+          id:114,
+          image: SkeletonShorts,
+          description: 'cool short which are cozy and stylish accessory, perfect for keeping warm during colder months while adding a fashionable touch to any outfit.',
+          price: '$50',
+          category:'Clothes'
+        },
+        {
+          id:115,
+          image: naked,
+          description: 'cool shoes which are cozy and stylish accessory, perfect for keeping warm during colder months while adding a fashionable touch to any outfit.',
+          price: '$160',
+          category:'Shoes'
+        },
+        {
+          id:116,
+          image:CapNewEra,
+          description: 'cool Cap which are cozy and stylish accessory, perfect for keeping warm during colder months while adding a fashionable touch to any outfit.',
+          price: '$60',
+          category: 'Caps'
+        },
+        {
+          id:117,
+          image:cap,
+          description: 'cool Cap which are cozy and stylish accessory, perfect for keeping warm during colder months while adding a fashionable touch to any outfit.',
+          price: '$60',
+          category: 'Caps'
+        },
+        {
+          id:1178,
+          image:cap1,
+          description: 'cool Cap which are cozy and stylish accessory, perfect for keeping warm during colder months while adding a fashionable touch to any outfit.',
+          price: '$60',
+          category: 'Caps'
+        },  
+        {
+          id:119,
+          image:cap2,
+          description: 'cool Cap which are cozy and stylish accessory, perfect for keeping warm during colder months while adding a fashionable touch to any outfit.',
+          price: '$60',
+          category: 'Caps'
+        },  
+        {
+          id:120,
+          image:cap3,
+          description: 'cool Cap which are cozy and stylish accessory, perfect for keeping warm during colder months while adding a fashionable touch to any outfit.',
+          price: '$60',
+          category: 'Caps'
+        }, 
+        {
+          id:121,
+          image:cap4,
+          description: 'cool Cap which are cozy and stylish accessory, perfect for keeping warm during colder months while adding a fashionable touch to any outfit.',
+          price: '$60',
+          category: 'Caps'
+        }, 
+        {
+          id:122,
+          image:cap5,
+          description: 'cool Cap which are cozy and stylish accessory, perfect for keeping warm during colder months while adding a fashionable touch to any outfit.',
+          price: '$60',
+          category: 'Caps'
+        }, 
+        {
+          id:123,
+          image:cap6,
+          description: 'cool Cap which are cozy and stylish accessory, perfect for keeping warm during colder months while adding a fashionable touch to any outfit.',
+          price: '$60',
+          category: 'Caps'
+        }, 
+        {
+          id:124,
+          image:cap7,
+          description: 'cool Cap which are cozy and stylish accessory, perfect for keeping warm during colder months while adding a fashionable touch to any outfit.',
+          price: '$60',
+          category: 'Caps'
+        },
+        
+
+
       ]
 
 export default Products;
